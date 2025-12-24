@@ -1,5 +1,7 @@
 # 🏝️ Oasis Clermont - Dashboard Îlots de Fraîcheur
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://oasisclermont.streamlit.app/)
+
 Application de visualisation des îlots de fraîcheur à Clermont-Ferrand, connectée en temps réel aux données météorologiques et de qualité de l'air.
 
 ![Dashboard Live](https://github.com/user-attachments/assets/placeholder)
