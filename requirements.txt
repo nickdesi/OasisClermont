@@ -1,0 +1,7 @@
+pandas
+requests
+streamlit
+folium
+streamlit-folium
+geopy
+aiohttp>=3.9.0

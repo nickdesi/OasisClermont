@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  oasis-dashboard:
+    build: .
+    container_name: oasis_clermont
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./:/app
+    environment:
+      - METEO_API_URL=${METEO_API_URL}
+      - ATMO_API_URL=${ATMO_API_URL}
+    restart: unless-stopped

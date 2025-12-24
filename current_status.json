@@ -1,0 +1,401 @@
+{
+    "metadata": {
+        "timestamp": "2025-12-24T12:23:10.551072",
+        "source": "Temps Réel (Open-Meteo & Atmo)",
+        "version": "2.1.0-Live"
+    },
+    "weather": {
+        "temperature": 2.3,
+        "status": "Pluie faible",
+        "station": "Open-Meteo Real-time",
+        "humidity": 83
+    },
+    "air_quality": {
+        "aqi": 2,
+        "description": "Moyen",
+        "pollutants": {
+            "no2": 51.6876,
+            "o3": 62.4371,
+            "pm10": 11.4579
+        },
+        "source": "Open Data Clermont (ATMO)"
+    },
+    "cool_islands": [
+        {
+            "name": "Jardin Lecoq",
+            "lat": 45.7709,
+            "lon": 3.0885,
+            "type": "Parc & Jardin",
+            "temp_diff": -5.1,
+            "local_temp": -2.8,
+            "crowd_level": "Élevé",
+            "comfort_score": 9.1,
+            "amenities": [
+                "Climatisation",
+                "Bancs",
+                "Wifi"
+            ]
+        },
+        {
+            "name": "Parc de Montjuzet",
+            "lat": 45.7865,
+            "lon": 3.0768,
+            "type": "Parc & Jardin",
+            "temp_diff": -6.4,
+            "local_temp": -4.1,
+            "crowd_level": "Élevé",
+            "comfort_score": 7.7,
+            "amenities": [
+                "Ombre",
+                "Bancs",
+                "Jeu pour enfants"
+            ]
+        },
+        {
+            "name": "Square de la Poterne",
+            "lat": 45.7788,
+            "lon": 3.0847,
+            "type": "Parc & Jardin",
+            "temp_diff": -5.4,
+            "local_temp": -3.1,
+            "crowd_level": "Élevé",
+            "comfort_score": 8.2,
+            "amenities": [
+                "Eau Potable",
+                "Toilettes"
+            ]
+        },
+        {
+            "name": "Jardin Botanique de la Charme",
+            "lat": 45.8033,
+            "lon": 3.1098,
+            "type": "Parc & Jardin",
+            "temp_diff": -5.7,
+            "local_temp": -3.4,
+            "crowd_level": "Élevé",
+            "comfort_score": 10,
+            "amenities": [
+                "Eau Potable",
+                "Climatisation",
+                "Bancs"
+            ]
+        },
+        {
+            "name": "Musée d'Art Roger Quilliot",
+            "lat": 45.7972,
+            "lon": 3.1119,
+            "type": "Lieu Culturel",
+            "temp_diff": -8.2,
+            "local_temp": -5.9,
+            "crowd_level": "Élevé",
+            "comfort_score": 10,
+            "amenities": [
+                "Toilettes",
+                "Climatisation"
+            ]
+        },
+        {
+            "name": "La Comédie de Clermont",
+            "lat": 45.779,
+            "lon": 3.095,
+            "type": "Lieu Culturel",
+            "temp_diff": -8.8,
+            "local_temp": -6.5,
+            "crowd_level": "Élevé",
+            "comfort_score": 10,
+            "amenities": [
+                "Toilettes",
+                "Eau Potable",
+                "Ombre",
+                "Climatisation"
+            ]
+        },
+        {
+            "name": "Muséum Henri-Lecoq",
+            "lat": 45.7705,
+            "lon": 3.089,
+            "type": "Lieu Culturel",
+            "temp_diff": -7.3,
+            "local_temp": -5.0,
+            "crowd_level": "Élevé",
+            "comfort_score": 10,
+            "amenities": [
+                "Jeu pour enfants",
+                "Bancs",
+                "Ombre",
+                "Eau Potable",
+                "Climatisation"
+            ]
+        },
+        {
+            "name": "Cathédrale Notre-Dame-de-l'Assomption",
+            "lat": 45.7785,
+            "lon": 3.0858,
+            "type": "Lieu de Culte",
+            "temp_diff": -7.7,
+            "local_temp": -5.4,
+            "crowd_level": "Moyen",
+            "comfort_score": 10,
+            "amenities": [
+                "Wifi",
+                "Climatisation"
+            ]
+        },
+        {
+            "name": "Basilique Notre-Dame du Port",
+            "lat": 45.7808,
+            "lon": 3.0905,
+            "type": "Lieu de Culte",
+            "temp_diff": -9.0,
+            "local_temp": -6.7,
+            "crowd_level": "Moyen",
+            "comfort_score": 9.5,
+            "amenities": [
+                "Wifi"
+            ]
+        },
+        {
+            "name": "Fontaines Place de Jaude",
+            "lat": 45.7766,
+            "lon": 3.0822,
+            "type": "Point d'Eau",
+            "temp_diff": -3.7,
+            "local_temp": -1.4,
+            "crowd_level": "Élevé",
+            "comfort_score": 7.3,
+            "amenities": [
+                "Bancs",
+                "Wifi",
+                "Eau Potable"
+            ]
+        },
+        {
+            "name": "Fontaine d'Amboise",
+            "lat": 45.781,
+            "lon": 3.088,
+            "type": "Point d'Eau",
+            "temp_diff": -4.7,
+            "local_temp": -2.4,
+            "crowd_level": "Élevé",
+            "comfort_score": 9.8,
+            "amenities": [
+                "Wifi",
+                "Climatisation",
+                "Eau Potable"
+            ]
+        },
+        {
+            "name": "Oasis Fraîcheur #1",
+            "lat": 45.77648104799546,
+            "lon": 3.0787695374765374,
+            "type": "Parc & Jardin",
+            "temp_diff": -6.7,
+            "local_temp": -4.4,
+            "crowd_level": "Élevé",
+            "comfort_score": 9.8,
+            "amenities": [
+                "Climatisation"
+            ]
+        },
+        {
+            "name": "Oasis Fraîcheur #2",
+            "lat": 45.790993337770196,
+            "lon": 3.106003364773003,
+            "type": "Parc & Jardin",
+            "temp_diff": -6.9,
+            "local_temp": -4.6,
+            "crowd_level": "Élevé",
+            "comfort_score": 9.9,
+            "amenities": [
+                "Ombre",
+                "Climatisation"
+            ]
+        },
+        {
+            "name": "Oasis Fraîcheur #3",
+            "lat": 45.78184015789256,
+            "lon": 3.0969935469492254,
+            "type": "Lieu Culturel",
+            "temp_diff": -6.6,
+            "local_temp": -4.3,
+            "crowd_level": "Élevé",
+            "comfort_score": 9.8,
+            "amenities": [
+                "Ombre",
+                "Toilettes",
+                "Bancs",
+                "Climatisation"
+            ]
+        },
+        {
+            "name": "Oasis Fraîcheur #4",
+            "lat": 45.785072510008824,
+            "lon": 3.0742132312556647,
+            "type": "Parc & Jardin",
+            "temp_diff": -4.1,
+            "local_temp": -1.8,
+            "crowd_level": "Élevé",
+            "comfort_score": 6.5,
+            "amenities": [
+                "Jeu pour enfants"
+            ]
+        },
+        {
+            "name": "Oasis Fraîcheur #5",
+            "lat": 45.757394597965785,
+            "lon": 3.1063004222012025,
+            "type": "Passage Ombragé",
+            "temp_diff": -3.4,
+            "local_temp": -1.1,
+            "crowd_level": "Élevé",
+            "comfort_score": 6.2,
+            "amenities": [
+                "Jeu pour enfants"
+            ]
+        },
+        {
+            "name": "Oasis Fraîcheur #6",
+            "lat": 45.75740179319327,
+            "lon": 3.1018614528020914,
+            "type": "Parc & Jardin",
+            "temp_diff": -6.2,
+            "local_temp": -3.9,
+            "crowd_level": "Élevé",
+            "comfort_score": 7.6,
+            "amenities": [
+                "Bancs",
+                "Toilettes",
+                "Ombre"
+            ]
+        },
+        {
+            "name": "Oasis Fraîcheur #7",
+            "lat": 45.79495236666078,
+            "lon": 3.068514733492046,
+            "type": "Lieu Culturel",
+            "temp_diff": -8.9,
+            "local_temp": -6.6,
+            "crowd_level": "Élevé",
+            "comfort_score": 10,
+            "amenities": [
+                "Climatisation",
+                "Bancs"
+            ]
+        },
+        {
+            "name": "Oasis Fraîcheur #8",
+            "lat": 45.7582780808201,
+            "lon": 3.0675006627506645,
+            "type": "Parc & Jardin",
+            "temp_diff": -5.6,
+            "local_temp": -3.3,
+            "crowd_level": "Élevé",
+            "comfort_score": 7.3,
+            "amenities": [
+                "Wifi"
+            ]
+        },
+        {
+            "name": "Oasis Fraîcheur #9",
+            "lat": 45.79107551293109,
+            "lon": 3.0968018544041387,
+            "type": "Passage Ombragé",
+            "temp_diff": -3.3,
+            "local_temp": -1.0,
+            "crowd_level": "Élevé",
+            "comfort_score": 7.2,
+            "amenities": [
+                "Toilettes",
+                "Ombre",
+                "Eau Potable",
+                "Wifi"
+            ]
+        },
+        {
+            "name": "Oasis Fraîcheur #10",
+            "lat": 45.765234053366875,
+            "lon": 3.090604634420992,
+            "type": "Lieu Culturel",
+            "temp_diff": -8.5,
+            "local_temp": -6.2,
+            "crowd_level": "Élevé",
+            "comfort_score": 10,
+            "amenities": [
+                "Toilettes",
+                "Climatisation"
+            ]
+        },
+        {
+            "name": "Oasis Fraîcheur #11",
+            "lat": 45.76526567864659,
+            "lon": 3.073179000682683,
+            "type": "Passage Ombragé",
+            "temp_diff": -2.9,
+            "local_temp": -0.6,
+            "crowd_level": "Élevé",
+            "comfort_score": 7.0,
+            "amenities": [
+                "Wifi",
+                "Eau Potable"
+            ]
+        },
+        {
+            "name": "Oasis Fraîcheur #12",
+            "lat": 45.793163821918704,
+            "lon": 3.0933989001825357,
+            "type": "Passage Ombragé",
+            "temp_diff": -3.8,
+            "local_temp": -1.5,
+            "crowd_level": "Élevé",
+            "comfort_score": 8.4,
+            "amenities": [
+                "Climatisation",
+                "Ombre",
+                "Bancs"
+            ]
+        },
+        {
+            "name": "Oasis Fraîcheur #13",
+            "lat": 45.76117010370467,
+            "lon": 3.091407326740336,
+            "type": "Parc & Jardin",
+            "temp_diff": -6.1,
+            "local_temp": -3.8,
+            "crowd_level": "Élevé",
+            "comfort_score": 8.6,
+            "amenities": [
+                "Ombre",
+                "Eau Potable",
+                "Jeu pour enfants"
+            ]
+        },
+        {
+            "name": "Oasis Fraîcheur #14",
+            "lat": 45.77226770033526,
+            "lon": 3.078886195559443,
+            "type": "Parc & Jardin",
+            "temp_diff": -5.1,
+            "local_temp": -2.8,
+            "crowd_level": "Élevé",
+            "comfort_score": 9.1,
+            "amenities": [
+                "Bancs",
+                "Wifi",
+                "Climatisation"
+            ]
+        },
+        {
+            "name": "Oasis Fraîcheur #15",
+            "lat": 45.77153143891192,
+            "lon": 3.0749509187082937,
+            "type": "Parc & Jardin",
+            "temp_diff": -5.4,
+            "local_temp": -3.1,
+            "crowd_level": "Élevé",
+            "comfort_score": 9.2,
+            "amenities": [
+                "Climatisation"
+            ]
+        }
+    ]
+}
